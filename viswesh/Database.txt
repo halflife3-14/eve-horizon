@@ -1,0 +1,12 @@
+apple:iphone:0
+one:note:1
+surface:pro:2
+viswesh:1234:5
+perl:straw:0
+viswesh:1234:1
+black:perl:5
+titan:eyeplus:5
+ipad:pro:3
+Ritik:jain:4
+Viswesh:blackberry:4
+postal:dep:3
